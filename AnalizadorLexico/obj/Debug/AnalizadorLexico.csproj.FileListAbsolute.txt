@@ -1,0 +1,63 @@
+c:\users\oscar\documents\visual studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorLexico - copia (2)\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\oscar\Desktop\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\oscar\Desktop\LyA2\AnalizadorSintactico\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Analizador.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Tokens.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.frmSemantica.resources
+C:\Users\juan\Documents\Visual Studio 2015\Projects\AnalizadorSintactico2\AnalizadorSintactico\AnalizadorLexico\obj\Debug\AnalizadorLexico.frmPostfijo.resources
